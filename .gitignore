@@ -43,3 +43,4 @@ fabrication-toolkit-options.json
 # Hugo
 docs/public/
 docs/resources/
+.hugo_build.lock
