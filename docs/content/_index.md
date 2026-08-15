@@ -1,6 +1,6 @@
 ---
 title: "Kevinbot P2 Board"
-editURL: https://github.com/meowmeowahr/KevinbotV3-KiCAD/edit/RevA/docs/content/_index.md
+editURL: https://github.com/Kevinbot-Robotics/kevinbot_p2_board/edit/main/docs/content/_index.md
 cascade:
   type: docs
 next: board-diagram
@@ -8,7 +8,7 @@ next: board-diagram
 
 {{< carousel gallery="kevinbot-p2-board" >}}
 
-{{< hextra/hero-button text="View Project on GitHub" link="https://github.com/meowmeowahr/KevinbotV3-KiCAD/tree/RevA" >}}
+{{< hextra/hero-button text="View Project on GitHub" link="https://github.com/Kevinbot-Robotics/kevinbot_p2_board/tree/main" >}}
 
 The Kevinbot P2 Board is a [Parallax Propeller 2 Edge](https://www.parallax.com/product/p2-edge-module/) Breakout 
 Board catered for robotics use.

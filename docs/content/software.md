@@ -1,6 +1,6 @@
 ---
 title: Software
-editURL: https://github.com/meowmeowahr/KevinbotV3-KiCAD/edit/RevA/docs/content/software.md
+editURL: https://github.com/Kevinbot-Robotics/kevinbot_p2_board/edit/main/docs/content/software.md
 prev: pin-mappings
 ---
 

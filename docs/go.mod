@@ -1,4 +1,4 @@
-module github.com/meowmeowahr/KevinbotV3-KiCAD/docs
+module github.com/Kevinbot-Robotics/kevinbot_p2_board/docs
 
 go 1.26.5
 

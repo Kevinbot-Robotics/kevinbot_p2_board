@@ -1,6 +1,6 @@
 ---
 title: "Board Diagram"
-editURL: https://github.com/meowmeowahr/KevinbotV3-KiCAD/edit/RevA/docs/content/board-diagram.md
+editURL: https://github.com/Kevinbot-Robotics/kevinbot_p2_board/edit/main/docs/content/board-diagram.md
 prev: /robotics/kevinbot-p2-board
 next: pin-mappings
 ---
